@@ -1,3 +1,3 @@
 # muadhhaji320.github.io
 live website
-https://github.com/muadhhaji320/muadhhaji320.github.io/Survey-Form/
+https://muadhhaji320.github.io/Survey-Form/
